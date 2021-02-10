@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hldar\\source\\repos\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {}
+    "C:\\Users\\hldar\\GitProjects\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hldar\\source\\repos\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {
+    "C:\\Users\\hldar\\GitProjects\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hldar\\source\\repos\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+        "projectUniqueName": "C:\\Users\\hldar\\GitProjects\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
         "projectName": "ContosoCrafts.WebSite",
-        "projectPath": "C:\\Users\\hldar\\source\\repos\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+        "projectPath": "C:\\Users\\hldar\\GitProjects\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
         "packagesPath": "C:\\Users\\hldar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hldar\\source\\repos\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
+        "outputPath": "C:\\Users\\hldar\\GitProjects\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
